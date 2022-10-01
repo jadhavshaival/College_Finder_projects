@@ -1,0 +1,50 @@
+EmployeeID,recorddate_key,birthdate_key,orighiredate_key,terminationdate_key,age,length_of_service,city_name,department_name,job_title,store_name,gender_short,gender_full,termreason_desc,termtype_desc,STATUS_YEAR,STATUS,BUSINESS_UNIT
+1318,12/31/2006 0:00,01-03-1954,8/28/1989,01-01-1900,52,17,Vancouver,Executive,CEO,35,M,Male,Not Applicable,Not Applicable,2006,ACTIVE,HEADOFFICE
+1318,12/31/2007 0:00,01-03-1954,8/28/1989,01-01-1900,53,18,Vancouver,Executive,CEO,35,M,Male,Not Applicable,Not Applicable,2007,ACTIVE,HEADOFFICE
+1318,12/31/2008 0:00,01-03-1954,8/28/1989,01-01-1900,54,19,Vancouver,Executive,CEO,35,M,Male,Not Applicable,Not Applicable,2008,ACTIVE,HEADOFFICE
+1318,12/31/2009 0:00,01-03-1954,8/28/1989,01-01-1900,55,20,Vancouver,Executive,CEO,35,M,Male,Not Applicable,Not Applicable,2009,ACTIVE,HEADOFFICE
+1318,12/31/2010 0:00,01-03-1954,8/28/1989,01-01-1900,56,21,Vancouver,Executive,CEO,35,M,Male,Not Applicable,Not Applicable,2010,ACTIVE,HEADOFFICE
+1318,12/31/2011 0:00,01-03-1954,8/28/1989,01-01-1900,57,22,Vancouver,Executive,CEO,35,M,Male,Not Applicable,Not Applicable,2011,ACTIVE,HEADOFFICE
+1318,12/31/2012 0:00,01-03-1954,8/28/1989,01-01-1900,58,23,Vancouver,Executive,CEO,35,M,Male,Not Applicable,Not Applicable,2012,ACTIVE,HEADOFFICE
+1318,12/31/2013 0:00,01-03-1954,8/28/1989,01-01-1900,59,24,Vancouver,Executive,CEO,35,M,Male,Not Applicable,Not Applicable,2013,ACTIVE,HEADOFFICE
+1318,12/31/2014 0:00,01-03-1954,8/28/1989,01-01-1900,60,25,Vancouver,Executive,CEO,35,M,Male,Not Applicable,Not Applicable,2014,ACTIVE,HEADOFFICE
+1318,12/31/2015 0:00,01-03-1954,8/28/1989,01-01-1900,61,26,Vancouver,Executive,CEO,35,M,Male,Not Applicable,Not Applicable,2015,ACTIVE,HEADOFFICE
+1319,12/31/2006 0:00,01-03-1957,8/28/1989,01-01-1900,49,17,Vancouver,Executive,VP Stores,35,F,Female,Not Applicable,Not Applicable,2006,ACTIVE,HEADOFFICE
+1319,12/31/2007 0:00,01-03-1957,8/28/1989,01-01-1900,50,18,Vancouver,Executive,VP Stores,35,F,Female,Not Applicable,Not Applicable,2007,ACTIVE,HEADOFFICE
+1319,12/31/2008 0:00,01-03-1957,8/28/1989,01-01-1900,51,19,Vancouver,Executive,VP Stores,35,F,Female,Not Applicable,Not Applicable,2008,ACTIVE,HEADOFFICE
+1319,12/31/2009 0:00,01-03-1957,8/28/1989,01-01-1900,52,20,Vancouver,Executive,VP Stores,35,F,Female,Not Applicable,Not Applicable,2009,ACTIVE,HEADOFFICE
+1319,12/31/2010 0:00,01-03-1957,8/28/1989,01-01-1900,53,21,Vancouver,Executive,VP Stores,35,F,Female,Not Applicable,Not Applicable,2010,ACTIVE,HEADOFFICE
+1319,12/31/2011 0:00,01-03-1957,8/28/1989,01-01-1900,54,22,Vancouver,Executive,VP Stores,35,F,Female,Not Applicable,Not Applicable,2011,ACTIVE,HEADOFFICE
+1319,12/31/2012 0:00,01-03-1957,8/28/1989,01-01-1900,55,23,Vancouver,Executive,VP Stores,35,F,Female,Not Applicable,Not Applicable,2012,ACTIVE,HEADOFFICE
+1319,12/31/2013 0:00,01-03-1957,8/28/1989,01-01-1900,56,24,Vancouver,Executive,VP Stores,35,F,Female,Not Applicable,Not Applicable,2013,ACTIVE,HEADOFFICE
+1319,12/31/2014 0:00,01-03-1957,8/28/1989,01-01-1900,57,25,Vancouver,Executive,VP Stores,35,F,Female,Not Applicable,Not Applicable,2014,ACTIVE,HEADOFFICE
+1319,12/31/2015 0:00,01-03-1957,8/28/1989,01-01-1900,58,26,Vancouver,Executive,VP Stores,35,F,Female,Not Applicable,Not Applicable,2015,ACTIVE,HEADOFFICE
+1320,12/31/2006 0:00,01-02-1955,8/28/1989,01-01-1900,51,17,Vancouver,Executive,Legal Counsel,35,F,Female,Not Applicable,Not Applicable,2006,ACTIVE,HEADOFFICE
+1320,12/31/2007 0:00,01-02-1955,8/28/1989,01-01-1900,52,18,Vancouver,Executive,Legal Counsel,35,F,Female,Not Applicable,Not Applicable,2007,ACTIVE,HEADOFFICE
+1320,12/31/2008 0:00,01-02-1955,8/28/1989,01-01-1900,53,19,Vancouver,Executive,Legal Counsel,35,F,Female,Not Applicable,Not Applicable,2008,ACTIVE,HEADOFFICE
+1320,12/31/2009 0:00,01-02-1955,8/28/1989,01-01-1900,54,20,Vancouver,Executive,Legal Counsel,35,F,Female,Not Applicable,Not Applicable,2009,ACTIVE,HEADOFFICE
+1320,12/31/2010 0:00,01-02-1955,8/28/1989,01-01-1900,55,21,Vancouver,Executive,Legal Counsel,35,F,Female,Not Applicable,Not Applicable,2010,ACTIVE,HEADOFFICE
+1320,12/31/2011 0:00,01-02-1955,8/28/1989,01-01-1900,56,22,Vancouver,Executive,Legal Counsel,35,F,Female,Not Applicable,Not Applicable,2011,ACTIVE,HEADOFFICE
+1320,12/31/2012 0:00,01-02-1955,8/28/1989,01-01-1900,57,23,Vancouver,Executive,Legal Counsel,35,F,Female,Not Applicable,Not Applicable,2012,ACTIVE,HEADOFFICE
+1320,12/31/2013 0:00,01-02-1955,8/28/1989,01-01-1900,58,24,Vancouver,Executive,Legal Counsel,35,F,Female,Not Applicable,Not Applicable,2013,ACTIVE,HEADOFFICE
+1320,12/31/2014 0:00,01-02-1955,8/28/1989,01-01-1900,59,25,Vancouver,Executive,Legal Counsel,35,F,Female,Not Applicable,Not Applicable,2014,ACTIVE,HEADOFFICE
+1320,12/31/2015 0:00,01-02-1955,8/28/1989,01-01-1900,60,26,Vancouver,Executive,Legal Counsel,35,F,Female,Not Applicable,Not Applicable,2015,ACTIVE,HEADOFFICE
+1321,12/31/2006 0:00,01-02-1959,8/28/1989,01-01-1900,47,17,Vancouver,Executive,VP Human Resources,35,M,Male,Not Applicable,Not Applicable,2006,ACTIVE,HEADOFFICE
+1321,12/31/2007 0:00,01-02-1959,8/28/1989,01-01-1900,48,18,Vancouver,Executive,VP Human Resources,35,M,Male,Not Applicable,Not Applicable,2007,ACTIVE,HEADOFFICE
+1321,12/31/2008 0:00,01-02-1959,8/28/1989,01-01-1900,49,19,Vancouver,Executive,VP Human Resources,35,M,Male,Not Applicable,Not Applicable,2008,ACTIVE,HEADOFFICE
+1321,12/31/2009 0:00,01-02-1959,8/28/1989,01-01-1900,50,20,Vancouver,Executive,VP Human Resources,35,M,Male,Not Applicable,Not Applicable,2009,ACTIVE,HEADOFFICE
+1321,12/31/2010 0:00,01-02-1959,8/28/1989,01-01-1900,51,21,Vancouver,Executive,VP Human Resources,35,M,Male,Not Applicable,Not Applicable,2010,ACTIVE,HEADOFFICE
+1321,12/31/2011 0:00,01-02-1959,8/28/1989,01-01-1900,52,22,Vancouver,Executive,VP Human Resources,35,M,Male,Not Applicable,Not Applicable,2011,ACTIVE,HEADOFFICE
+1321,12/31/2012 0:00,01-02-1959,8/28/1989,01-01-1900,53,23,Vancouver,Executive,VP Human Resources,35,M,Male,Not Applicable,Not Applicable,2012,ACTIVE,HEADOFFICE
+1321,12/31/2013 0:00,01-02-1959,8/28/1989,01-01-1900,54,24,Vancouver,Executive,VP Human Resources,35,M,Male,Not Applicable,Not Applicable,2013,ACTIVE,HEADOFFICE
+1321,12/31/2014 0:00,01-02-1959,8/28/1989,01-01-1900,55,25,Vancouver,Executive,VP Human Resources,35,M,Male,Not Applicable,Not Applicable,2014,ACTIVE,HEADOFFICE
+1321,12/31/2015 0:00,01-02-1959,8/28/1989,01-01-1900,56,26,Vancouver,Executive,VP Human Resources,35,M,Male,Not Applicable,Not Applicable,2015,ACTIVE,HEADOFFICE
+1322,12/31/2006 0:00,01-09-1958,8/31/1989,01-01-1900,48,17,Vancouver,Executive,VP Finance,35,M,Male,Not Applicable,Not Applicable,2006,ACTIVE,HEADOFFICE
+1322,12/31/2007 0:00,01-09-1958,8/31/1989,01-01-1900,49,18,Vancouver,Executive,VP Finance,35,M,Male,Not Applicable,Not Applicable,2007,ACTIVE,HEADOFFICE
+1322,12/31/2008 0:00,01-09-1958,8/31/1989,01-01-1900,50,19,Vancouver,Executive,VP Finance,35,M,Male,Not Applicable,Not Applicable,2008,ACTIVE,HEADOFFICE
+1322,12/31/2009 0:00,01-09-1958,8/31/1989,01-01-1900,51,20,Vancouver,Executive,VP Finance,35,M,Male,Not Applicable,Not Applicable,2009,ACTIVE,HEADOFFICE
+1322,12/31/2010 0:00,01-09-1958,8/31/1989,01-01-1900,52,21,Vancouver,Executive,VP Finance,35,M,Male,Not Applicable,Not Applicable,2010,ACTIVE,HEADOFFICE
+1322,12/31/2011 0:00,01-09-1958,8/31/1989,01-01-1900,53,22,Vancouver,Executive,VP Finance,35,M,Male,Not Applicable,Not Applicable,2011,ACTIVE,HEADOFFICE
+1322,12/31/2012 0:00,01-09-1958,8/31/1989,01-01-1900,54,23,Vancouver,Executive,VP Finance,35,M,Male,Not Applicable,Not Applicable,2012,ACTIVE,HEADOFFICE
+1322,12/31/2013 0:00,01-09-1958,8/31/1989,01-01-1900,55,24,Vancouver,Executive,VP Finance,35,M,Male,Not Applicable,Not Applicable,2013,ACTIVE,HEADOFFICE
+1322,12/31/2014 0:00,01-09-1958,8/31/1989,01-01-1900,56,25,Vancouver,Executive,VP Finance,35,M,Male,Not Applicable,Not Applicable,2014,ACTIVE,HEADOFFICE
